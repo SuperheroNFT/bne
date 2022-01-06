@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6e6938B2a6574c4d059e2EFF0a30a89C3908D50E",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x6e6938B2a6574c4d059e2EFF0a30a89C3908D50E",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BNE NFT",
+  "SYMBOL": "BNENT",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bnenfttest",
+  "SHOW_BACKGROUND": true
+}
